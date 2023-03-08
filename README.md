@@ -5,9 +5,7 @@
  <h3>
     <!-- Github Pages Live -->
     <a href="https://officialp123.github.io/Country-Search-App/">Live</a>
-    <span>&nbsp;|&nbsp;</span>
   
-    <span>&nbsp;|&nbsp;</span>
    
   </h3>
  

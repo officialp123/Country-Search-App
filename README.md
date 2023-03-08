@@ -4,17 +4,11 @@
  <h1>REST Countries API with color theme switcher</h1>
  <h3>
     <!-- Github Pages Live -->
-    <a href="https://officialp123.github.io/Country-Search-App//frontendmentor_REST-Countries-API-with-color-theme-switcher/">Live</a>
+    <a href="https://officialp123.github.io/Country-Search-App/">Live</a>
     <span>&nbsp;|&nbsp;</span>
-    <!-- Frontend Mentor Live solution -->
-    <a href="https://www.frontendmentor.io/solutions/rest-countries-api-with-color-theme-switcher-using-vanilla-javascript-ByX3ZG1Vc" title="Check My Solution on Frontend Mentor">
-      Solution
-    </a>
+  
     <span>&nbsp;|&nbsp;</span>
-    <!-- Frontend Mentor Challenge Link -->
-    <a href="https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca" title="Original Frontend Mentor Challenge Link">
-      Challenge
-    </a>
+   
   </h3>
  
   <h5>

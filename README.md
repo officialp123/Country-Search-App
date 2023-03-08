@@ -81,11 +81,5 @@ I need your opinions, feedbacks , how do you find my code structure? or any sugg
 - I don't have sketch or figma files. So the final result isn't pixel perfect.
 - I want to say **Thanks** to anyone who see my work and react with it, give me his feedback and helped me to improve myself. So thank you❤.
 
-## Author
-
-- My website - Well I haven't made my portfolio yet, but gonna make it soon.
-- <img src="https://raw.githubusercontent.com/devicons/devicon/1a5dbfa142a9677d6ddaa05d05f377ac23af9a2e/icons/github/github-original.svg" width="20" height="20"/> &nbsp;Github - [@FedLover](https://github.com/MohamedAridah)
-- <img src="https://raw.githubusercontent.com/devicons/devicon/1a5dbfa142a9677d6ddaa05d05f377ac23af9a2e/icons/codepen/codepen-plain.svg" width="20" height="20"/> &nbsp;Codepen - [@FedLover](https://codepen.io/FedLover)
-- <img src="https://raw.githubusercontent.com/MohamedAridah/hosted-assets/main/FEM.png" width="20" height="20"/> &nbsp;Frontend Mentor - [@mo](https://www.frontendmentor.io/profile/MohamedAridah)
 
 **See you in another project!** 👋👩‍💻
